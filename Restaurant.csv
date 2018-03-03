@@ -1,0 +1,20 @@
+dish_name,dish_price,Currency_type,dish_type,dish_nature,dish_url,dish_desc
+Tamatar Dhania Shorba,100,Rs,SOUPS,VEG,https://dl.dropbox.com/s/cfpgqvbgfnmm8a6/Tamatar%20Dhania%20Shorba.jpg?dl=0,Boned chicken cooked in a brown onion gravy with spicy masalas from Karachi
+Palak Shorba,150,Rs,SOUPS,VEG,https://dl.dropbox.com/s/qusoqnm5vl8vj5e/Palak%20Shorba.jpg?dl=0,Chicken cooked with masala imported from Lahore
+Murgh Yakni Shorba,200,Rs,SOUPS,NON VEG,https://dl.dropbox.com/s/9hj3lz4ippufv70/Murgh%20Yakni%20Shorba.jpg?dl=0,Whole grilled tandoori chicken tossed in spicy butter tomato gravy served on a bed of pulao
+Paya Shorba,210,Rs,SOUPS,NON VEG,https://dl.dropbox.com/s/9hj3lz4ippufv70/Murgh%20Yakni%20Shorba.jpg?dl=0,Age old style preparation cooked in a copper vessel
+TANDOORI PANEER TIKKA,220,Rs,STARTERS,VEG,https://dl.dropbox.com/s/2mwzrqzz5wo59t4/TANDOORI%20PANEER%20TIKKA.jpg?dl=0,Boned chicken cooked in a brown onion gravy with spicy masalas from Karachi
+PANEER HARI MIRCH TIKKA,230,Rs,STARTERS,VEG,https://dl.dropbox.com/s/2mwzrqzz5wo59t4/TANDOORI%20PANEER%20TIKKA.jpg?dl=0,Chicken cooked with masala imported from Lahore
+LASOONI PANEER TIKKA,240,Rs,STARTERS,VEG,https://dl.dropbox.com/s/2mwzrqzz5wo59t4/TANDOORI%20PANEER%20TIKKA.jpg?dl=0,Whole grilled tandoori chicken tossed in spicy butter tomato gravy served on a bed of pulao
+PANEER PEELI MIRCH TIKKA,250,Rs,STARTERS,VEG,https://dl.dropbox.com/s/2mwzrqzz5wo59t4/TANDOORI%20PANEER%20TIKKA.jpg?dl=0,Age old style preparation cooked in a copper vessel
+MURGH CHARGA,260,Rs,STARTERS,NON VEG,https://dl.dropbox.com/s/2qrkdanc815s3bq/MURGH%20TANGDI%20KEBAB.jpg?dl=0,Boned chicken cooked in a brown onion gravy with spicy masalas from Karachi
+MURGH TANGDI KEBAB,270,Rs,STARTERS,NON VEG,https://dl.dropbox.com/s/2qrkdanc815s3bq/MURGH%20TANGDI%20KEBAB.jpg?dl=0,Chicken cooked with masala imported from Lahore
+MURGH TIKKA,280,Rs,STARTERS,NON VEG,https://dl.dropbox.com/s/2qrkdanc815s3bq/MURGH%20TANGDI%20KEBAB.jpg?dl=0,Whole grilled tandoori chicken tossed in spicy butter tomato gravy served on a bed of pulao
+PANEER MEKHANWALA,290,Rs,MAIN COURSE,VEG,https://dl.dropbox.com/s/lpqneetl4qira39/PANEER%20MEKHANWALA.jpg?dl=0,Age old style preparation cooked in a copper vessel
+PANEER SIA MIRCH,300,Rs,MAIN COURSE,VEG,https://dl.dropbox.com/s/lpqneetl4qira39/PANEER%20MEKHANWALA.jpg?dl=0,Boned chicken cooked in a brown onion gravy with spicy masalas from Karachi
+PANEER LAHORI,310,Rs,MAIN COURSE,VEG,https://dl.dropbox.com/s/lpqneetl4qira39/PANEER%20MEKHANWALA.jpg?dl=0,Chicken cooked with masala imported from Lahore
+SAHI PANEER,320,Rs,MAIN COURSE,VEG,https://dl.dropbox.com/s/lpqneetl4qira39/PANEER%20MEKHANWALA.jpg?dl=0,Whole grilled tandoori chicken tossed in spicy butter tomato gravy served on a bed of pulao
+BUTTER CHICKEN,330,Rs,MAIN COURSE,NON VEG,https://dl.dropbox.com/s/ox17rvgt6syh44p/CHICKEN%20TIKKA%20MASALA.jpg?dl=0,Age old style preparation cooked in a copper vessel
+CHICKEN TIKKA MASALA,340,Rs,MAIN COURSE,NON VEG,https://dl.dropbox.com/s/ox17rvgt6syh44p/CHICKEN%20TIKKA%20MASALA.jpg?dl=0,Boned chicken cooked in a brown onion gravy with spicy masalas from Karachi
+MURGH SIA MIRCH,350,Rs,MAIN COURSE,NON VEG,https://dl.dropbox.com/s/ox17rvgt6syh44p/CHICKEN%20TIKKA%20MASALA.jpg?dl=0,Chicken cooked with masala imported from Lahore
+MURGH KORMA,360,Rs,MAIN COURSE,NON VEG,https://dl.dropbox.com/s/ox17rvgt6syh44p/CHICKEN%20TIKKA%20MASALA.jpg?dl=0,Whole grilled tandoori chicken tossed in spicy butter tomato gravy served on a bed of pulao
